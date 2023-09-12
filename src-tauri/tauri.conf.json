@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "微信阅读",
     "version": "1.0.0"
   },
   "tauri": {
